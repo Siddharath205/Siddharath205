@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 Currently working on: MERN stack projects<br>👯 Looking to collaborate on: Front-end & MERN apps<br>🌱 Learning: React, Node.js, MongoDB<br>💬 Ask me about: Front-end, UI design, MERN basics<br>⚡ Fun fact: MCA student turning into a full MERN developer
 
-
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siddharathmishra3@gmail.com) 
 
